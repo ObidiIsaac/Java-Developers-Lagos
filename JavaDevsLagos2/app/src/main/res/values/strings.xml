@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Java Devs Lagos</string>
+    <string name="action_setting">Setting</string>
+    <string name="version">V1.0</string>
+    <string name="dev">Developer </string>
+    <string name="dev_name">Obidi Isaac</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_developer_found">No Developer found.</string>
+    <string name="settings_title">JAVA DEVS LAGOS</string>
+    <string name="username">Username :</string>
+    <string name="github">GITHUB URL :</string>
+</resources>
